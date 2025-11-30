@@ -9,12 +9,12 @@ Features :
 
 The features of Snorter are :
 
-Hostility based report (from attack classes and bayesian statistics)
-Investigating on events with whois queries, snortDB queries, world map tracing...
-Managing the database : deletion of events with the choice of the delete critera (IPSRC, IPDST, SIGNATURE, DATE)
-Event packet decode
-Bayesian learning about false positives, Activity graph, Time-Dispersion graph
-Embedded web server
+- Hostility based report (from attack classes and bayesian statistics)
+- Investigating on events with whois queries, snortDB queries, world map tracing...
+- Managing the database : deletion of events with the choice of the delete critera (IPSRC, IPDST, SIGNATURE, DATE)
+- Event packet decode
+- Bayesian learning about false positives, Activity graph, Time-Dispersion graph
+- Embedded web server
 
 Screenshots :
 
